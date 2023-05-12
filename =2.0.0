@@ -1,0 +1,27 @@
+Collecting torch
+  Downloading torch-2.0.1-cp311-cp311-manylinux1_x86_64.whl (619.9 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 619.9/619.9 MB 1.8 MB/s eta 0:00:00
+Collecting filelock (from torch)
+  Downloading filelock-3.12.0-py3-none-any.whl (10 kB)
+Requirement already satisfied: typing-extensions in /home/vivek/anaconda3/envs/litllama/lib/python3.11/site-packages (from torch) (4.5.0)
+Collecting sympy (from torch)
+  Downloading sympy-1.12-py3-none-any.whl (5.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 5.7/5.7 MB 2.7 MB/s eta 0:00:00
+Collecting networkx (from torch)
+  Downloading networkx-3.1-py3-none-any.whl (2.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 2.1/2.1 MB 2.9 MB/s eta 0:00:00
+Collecting jinja2 (from torch)
+  Downloading Jinja2-3.1.2-py3-none-any.whl (133 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 133.1/133.1 kB 2.9 MB/s eta 0:00:00
+Collecting nvidia-cuda-nvrtc-cu11==11.7.99 (from torch)
+  Downloading nvidia_cuda_nvrtc_cu11-11.7.99-2-py3-none-manylinux1_x86_64.whl (21.0 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 21.0/21.0 MB 3.0 MB/s eta 0:00:00
+Collecting nvidia-cuda-runtime-cu11==11.7.99 (from torch)
+  Downloading nvidia_cuda_runtime_cu11-11.7.99-py3-none-manylinux1_x86_64.whl (849 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 849.3/849.3 kB 2.7 MB/s eta 0:00:00
+Collecting nvidia-cuda-cupti-cu11==11.7.101 (from torch)
+  Downloading nvidia_cuda_cupti_cu11-11.7.101-py3-none-manylinux1_x86_64.whl (11.8 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.8/11.8 MB 2.8 MB/s eta 0:00:00
+Collecting nvidia-cudnn-cu11==8.5.0.96 (from torch)
+  Downloading nvidia_cudnn_cu11-8.5.0.96-2-py3-none-manylinux1_x86_64.whl (557.1 MB)
+     ━━━━━━━━━╸                               137.3/557.1 MB 2.9 MB/s eta 0:02:26
