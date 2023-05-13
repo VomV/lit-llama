@@ -39,3 +39,7 @@ Collecting nvidia-cusolver-cu11==11.4.0.1 (from torch)
      ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 102.6/102.6 MB 3.1 MB/s eta 0:00:00
 Collecting nvidia-cusparse-cu11==11.7.4.91 (from torch)
   Downloading nvidia_cusparse_cu11-11.7.4.91-py3-none-manylinux1_x86_64.whl (173.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 173.2/173.2 MB 2.5 MB/s eta 0:00:00
+Collecting nvidia-nccl-cu11==2.14.3 (from torch)
+  Downloading nvidia_nccl_cu11-2.14.3-py3-none-manylinux1_x86_64.whl (177.1 MB)
+     ━━━━━━━━━━━━                             55.1/177.1 MB 3.4 MB/s eta 0:00:37
